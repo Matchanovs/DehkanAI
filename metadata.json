@@ -1,0 +1,8 @@
+{
+  "name": "Dehkan.AI - O'simliklar uchun aqlli shifokor",
+  "description": "Dehqan.AI is a mobile-first AI-powered agricultural diagnostic application designed for farmers in Uzbekistan. It helps farmers quickly identify crop problems from a photo and get practical treatment recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
